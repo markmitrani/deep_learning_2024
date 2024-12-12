@@ -51,7 +51,7 @@ def objective_RNN(trial):
     trainloader = torch.utils.data.DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
     valloader = torch.utils.data.DataLoader(validation_dataset, batch_size=batch_size, shuffle=False)
 
-    model = RNNModel(batch_size, embedding_size, hidden_size)
+    model = RNNModel(batch_size, embedding_size, hidden_size).to(device)
     model.train()
     optimizer = optim.Adam(model.parameters(), lr=learning_rate)
 
