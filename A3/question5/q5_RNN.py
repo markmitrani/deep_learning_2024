@@ -1,4 +1,4 @@
-from deep_learning_2024.A3 import data_rnn
+import data_rnn
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -16,7 +16,7 @@ class RNNModel(nn.Module):
         vocab_size = 99430  # from len(i2w)
 
         self.embedding = nn.Embedding(vocab_size, embedding_size, padding_idx=0)
-        self.fc1 = torch.nn.RNN(input_size=(batch_size, timesteps, embedding_size), hidden_size=hidden,
+        self.fc1 = torch.nn.RNN(input_size=embedding_size, hidden_size=hidden,
                                 batch_first=True)
         self.fc2 = nn.Linear(hidden, num_classes)
 
@@ -33,7 +33,7 @@ def objective_RNN(trial):
     embedding_size = trial.suggest_int("embedding_size", 50, 500, step=50)
     hidden_size = trial.suggest_int("hidden_size", 50, 500, step=50)
     learning_rate = trial.suggest_float("lr", 1e-5, 1e-1, log=True)
-    batch_size = trial.suggest_categorical("batch_size", [128, 256, 512, 1024])
+    batch_size = trial.suggest_categorical("batch_size", [128, 256])
     nr_epochs = trial.suggest_categorical("nr_epochs", [10, 20, 30])
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -46,8 +46,9 @@ def objective_RNN(trial):
     padded_train = padded_train.to(device)
     padded_val = padded_val.to(device)
 
-    train_dataset = TensorDataset(padded_train, torch.tensor(y_train))
-    validation_dataset = TensorDataset(padded_val, torch.tensor(y_val))
+    train_dataset = TensorDataset(padded_train, torch.tensor(y_train).to(device))
+    validation_dataset = TensorDataset(padded_val, torch.tensor(y_val).to(device))
+    
     trainloader = torch.utils.data.DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
     valloader = torch.utils.data.DataLoader(validation_dataset, batch_size=batch_size, shuffle=False)
 
