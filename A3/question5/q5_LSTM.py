@@ -7,7 +7,7 @@ from utils import pad, validate
 
 
 class LSTMModel(nn.Module):
-    def __init__(self, batch_size=1, embedding_size=300, hidden_size=300):
+    def __init__(self, embedding_size=300, hidden_size=300):
         super().__init__()
         timesteps = 2514  # from np.max(lengths)
         hidden = hidden_size
@@ -50,7 +50,7 @@ def objective_LSTM(trial):
     trainloader = torch.utils.data.DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
     valloader = torch.utils.data.DataLoader(validation_dataset, batch_size=batch_size, shuffle=False)
 
-    model = LSTMModel(batch_size, embedding_size, hidden_size).to(device)
+    model = LSTMModel(embedding_size, hidden_size).to(device)
     model.train()
     optimizer = optim.Adam(model.parameters(), lr=learning_rate)
 
