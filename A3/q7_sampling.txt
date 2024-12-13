@@ -1,0 +1,1427 @@
+Epoch 1, loss: 420.47772384666337
+Completion of sequence (E0S0):
+)
+.end
+left 2, right 2
+Completion of sequence (E0S1):
+)
+.end
+left 2, right 2
+Completion of sequence (E0S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E0S3):
+(
+)
+(
+)
+(
+)
+)
+.end
+left 5, right 5
+Completion of sequence (E0S4):
+(
+)
+(
+(
+)
+)
+)
+.end
+left 5, right 5
+Completion of sequence (E0S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E0S6):
+)
+.end
+left 2, right 2
+Completion of sequence (E0S7):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E0S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E0S9):
+(
+)
+)
+.end
+left 3, right 3
+Epoch 2, loss: 176.77880371471315
+Completion of sequence (E1S0):
+)
+.end
+left 2, right 2
+Completion of sequence (E1S1):
+)
+.end
+left 2, right 2
+Completion of sequence (E1S2):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E1S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E1S4):
+(
+(
+)
+)
+)
+.end
+left 4, right 4
+Completion of sequence (E1S5):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E1S6):
+(
+(
+)
+)
+)
+.end
+left 4, right 4
+Completion of sequence (E1S7):
+)
+.end
+left 2, right 2
+Completion of sequence (E1S8):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E1S9):
+(
+)
+)
+.end
+left 3, right 3
+Epoch 3, loss: 176.0817202048904
+Completion of sequence (E2S0):
+(
+(
+(
+)
+)
+(
+(
+(
+(
+(
+(
+)
+)
+(
+)
+(
+(
+)
+)
+(
+(
+(
+)
+(
+)
+left 18, right 10
+Completion of sequence (E2S1):
+)
+.end
+left 2, right 2
+Completion of sequence (E2S2):
+(
+)
+(
+)
+)
+.end
+left 4, right 4
+Completion of sequence (E2S3):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E2S4):
+(
+(
+(
+)
+(
+)
+(
+)
+)
+(
+(
+)
+)
+)
+)
+.end
+left 9, right 9
+Completion of sequence (E2S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E2S6):
+)
+.end
+left 2, right 2
+Completion of sequence (E2S7):
+)
+.end
+left 2, right 2
+Completion of sequence (E2S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E2S9):
+)
+.end
+left 2, right 2
+Epoch 4, loss: 175.99913592956986
+Completion of sequence (E3S0):
+(
+)
+(
+(
+)
+)
+(
+)
+(
+)
+)
+.end
+left 7, right 7
+Completion of sequence (E3S1):
+)
+.end
+left 2, right 2
+Completion of sequence (E3S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E3S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E3S4):
+)
+.end
+left 2, right 2
+Completion of sequence (E3S5):
+(
+)
+(
+)
+)
+.end
+left 4, right 4
+Completion of sequence (E3S6):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E3S7):
+(
+(
+)
+)
+)
+.end
+left 4, right 4
+Completion of sequence (E3S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E3S9):
+)
+.end
+left 2, right 2
+Epoch 5, loss: 175.96252124871003
+Completion of sequence (E4S0):
+(
+(
+(
+)
+)
+)
+(
+(
+)
+)
+)
+.end
+left 7, right 7
+Completion of sequence (E4S1):
+(
+)
+(
+(
+)
+)
+(
+(
+(
+(
+(
+)
+(
+)
+)
+)
+)
+)
+(
+)
+)
+.end
+left 12, right 12
+Completion of sequence (E4S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E4S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E4S4):
+)
+.end
+left 2, right 2
+Completion of sequence (E4S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E4S6):
+)
+.end
+left 2, right 2
+Completion of sequence (E4S7):
+)
+.end
+left 2, right 2
+Completion of sequence (E4S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E4S9):
+)
+.end
+left 2, right 2
+Epoch 6, loss: 175.9618805219696
+Completion of sequence (E5S0):
+)
+.end
+left 2, right 2
+Completion of sequence (E5S1):
+(
+(
+)
+(
+)
+)
+(
+)
+)
+.end
+left 6, right 6
+Completion of sequence (E5S2):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E5S3):
+(
+(
+)
+)
+(
+)
+)
+.end
+left 5, right 5
+Completion of sequence (E5S4):
+(
+(
+)
+(
+(
+)
+)
+)
+(
+)
+(
+(
+)
+(
+)
+(
+)
+(
+)
+(
+(
+)
+)
+)
+)
+left 14, right 14
+Completion of sequence (E5S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E5S6):
+(
+(
+)
+)
+)
+.end
+left 4, right 4
+Completion of sequence (E5S7):
+)
+.end
+left 2, right 2
+Completion of sequence (E5S8):
+(
+)
+(
+(
+)
+(
+(
+)
+)
+)
+)
+.end
+left 7, right 7
+Completion of sequence (E5S9):
+)
+.end
+left 2, right 2
+Epoch 7, loss: 175.95548886976144
+Completion of sequence (E6S0):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E6S1):
+)
+.end
+left 2, right 2
+Completion of sequence (E6S2):
+(
+(
+)
+)
+)
+.end
+left 4, right 4
+Completion of sequence (E6S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E6S4):
+)
+.end
+left 2, right 2
+Completion of sequence (E6S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E6S6):
+(
+(
+)
+)
+(
+)
+(
+(
+(
+(
+)
+)
+(
+)
+)
+)
+(
+)
+)
+.end
+left 11, right 11
+Completion of sequence (E6S7):
+)
+.end
+left 2, right 2
+Completion of sequence (E6S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E6S9):
+(
+)
+(
+(
+)
+)
+(
+)
+)
+.end
+left 6, right 6
+Epoch 8, loss: 175.95151084519082
+Completion of sequence (E7S0):
+)
+.end
+left 2, right 2
+Completion of sequence (E7S1):
+)
+.end
+left 2, right 2
+Completion of sequence (E7S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E7S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E7S4):
+)
+.end
+left 2, right 2
+Completion of sequence (E7S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E7S6):
+)
+.end
+left 2, right 2
+Completion of sequence (E7S7):
+)
+.end
+left 2, right 2
+Completion of sequence (E7S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E7S9):
+)
+.end
+left 2, right 2
+Epoch 9, loss: 175.94237823697895
+Completion of sequence (E8S0):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E8S1):
+)
+.end
+left 2, right 2
+Completion of sequence (E8S2):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E8S3):
+(
+)
+(
+(
+)
+(
+)
+)
+)
+.end
+left 6, right 6
+Completion of sequence (E8S4):
+(
+(
+)
+(
+(
+)
+)
+(
+)
+)
+)
+.end
+left 7, right 7
+Completion of sequence (E8S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E8S6):
+(
+(
+)
+(
+(
+(
+)
+(
+(
+(
+(
+)
+)
+(
+)
+)
+)
+)
+)
+)
+)
+.end
+left 12, right 12
+Completion of sequence (E8S7):
+)
+.end
+left 2, right 2
+Completion of sequence (E8S8):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E8S9):
+(
+(
+(
+)
+(
+(
+(
+)
+)
+)
+(
+)
+)
+(
+(
+)
+(
+)
+)
+)
+)
+.end
+left 12, right 12
+Epoch 10, loss: 175.95279936823016
+Completion of sequence (E9S0):
+(
+(
+)
+(
+(
+)
+)
+(
+)
+(
+)
+(
+(
+)
+)
+)
+(
+)
+)
+.end
+left 11, right 11
+Completion of sequence (E9S1):
+(
+)
+(
+(
+)
+(
+)
+(
+(
+)
+(
+)
+)
+)
+(
+(
+)
+)
+)
+.end
+left 11, right 11
+Completion of sequence (E9S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E9S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E9S4):
+(
+(
+)
+(
+)
+(
+)
+(
+(
+)
+)
+)
+)
+.end
+left 8, right 8
+Completion of sequence (E9S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E9S6):
+)
+.end
+left 2, right 2
+Completion of sequence (E9S7):
+(
+(
+)
+)
+)
+.end
+left 4, right 4
+Completion of sequence (E9S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E9S9):
+)
+.end
+left 2, right 2
+Epoch 11, loss: 175.94379211936794
+Completion of sequence (E10S0):
+)
+.end
+left 2, right 2
+Completion of sequence (E10S1):
+)
+.end
+left 2, right 2
+Completion of sequence (E10S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E10S3):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E10S4):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E10S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E10S6):
+)
+.end
+left 2, right 2
+Completion of sequence (E10S7):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E10S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E10S9):
+(
+(
+)
+(
+)
+)
+)
+.end
+left 5, right 5
+Epoch 12, loss: 175.94641101970606
+Completion of sequence (E11S0):
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+)
+.end
+left 7, right 7
+Completion of sequence (E11S1):
+)
+.end
+left 2, right 2
+Completion of sequence (E11S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E11S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E11S4):
+)
+.end
+left 2, right 2
+Completion of sequence (E11S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E11S6):
+)
+.end
+left 2, right 2
+Completion of sequence (E11S7):
+(
+(
+)
+)
+)
+.end
+left 4, right 4
+Completion of sequence (E11S8):
+(
+(
+(
+(
+(
+(
+(
+)
+)
+(
+)
+(
+(
+(
+(
+)
+(
+)
+)
+)
+)
+)
+(
+(
+)
+left 17, right 11
+Completion of sequence (E11S9):
+)
+.end
+left 2, right 2
+Epoch 13, loss: 175.9349814746974
+Completion of sequence (E12S0):
+)
+.end
+left 2, right 2
+Completion of sequence (E12S1):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E12S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E12S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E12S4):
+)
+.end
+left 2, right 2
+Completion of sequence (E12S5):
+(
+(
+(
+(
+(
+)
+)
+)
+)
+(
+(
+)
+(
+)
+(
+(
+)
+(
+)
+)
+)
+(
+(
+)
+)
+left 15, right 13
+Completion of sequence (E12S6):
+(
+)
+(
+)
+)
+.end
+left 4, right 4
+Completion of sequence (E12S7):
+)
+.end
+left 2, right 2
+Completion of sequence (E12S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E12S9):
+)
+.end
+left 2, right 2
+Epoch 14, loss: 175.95106476565678
+Completion of sequence (E13S0):
+)
+.end
+left 2, right 2
+Completion of sequence (E13S1):
+)
+.end
+left 2, right 2
+Completion of sequence (E13S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E13S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E13S4):
+)
+.end
+left 2, right 2
+Completion of sequence (E13S5):
+(
+(
+(
+)
+(
+)
+)
+)
+)
+.end
+left 6, right 6
+Completion of sequence (E13S6):
+)
+.end
+left 2, right 2
+Completion of sequence (E13S7):
+(
+)
+(
+)
+)
+.end
+left 4, right 4
+Completion of sequence (E13S8):
+(
+)
+(
+)
+(
+(
+)
+)
+)
+.end
+left 6, right 6
+Completion of sequence (E13S9):
+(
+)
+)
+.end
+left 3, right 3
+Epoch 15, loss: 175.9526921197416
+Completion of sequence (E14S0):
+)
+.end
+left 2, right 2
+Completion of sequence (E14S1):
+(
+)
+(
+(
+)
+)
+(
+)
+)
+.end
+left 6, right 6
+Completion of sequence (E14S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E14S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E14S4):
+(
+(
+(
+)
+)
+(
+(
+(
+)
+)
+(
+(
+)
+)
+(
+)
+(
+)
+)
+(
+)
+)
+(
+)
+(
+left 15, right 13
+Completion of sequence (E14S5):
+(
+)
+(
+(
+(
+(
+)
+(
+(
+)
+(
+(
+(
+)
+(
+)
+)
+)
+)
+(
+(
+)
+)
+(
+(
+left 17, right 11
+Completion of sequence (E14S6):
+(
+)
+(
+(
+(
+)
+(
+)
+)
+(
+)
+(
+(
+(
+(
+)
+(
+)
+)
+(
+(
+(
+(
+)
+)
+left 17, right 11
+Completion of sequence (E14S7):
+)
+.end
+left 2, right 2
+Completion of sequence (E14S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E14S9):
+)
+.end
+left 2, right 2
+Epoch 16, loss: 175.94785006705405
+Completion of sequence (E15S0):
+)
+.end
+left 2, right 2
+Completion of sequence (E15S1):
+(
+)
+(
+(
+(
+(
+(
+(
+)
+)
+)
+(
+(
+)
+)
+)
+(
+(
+)
+(
+)
+)
+(
+)
+(
+left 16, right 12
+Completion of sequence (E15S2):
+(
+(
+)
+)
+(
+(
+)
+(
+)
+)
+(
+)
+)
+.end
+left 8, right 8
+Completion of sequence (E15S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E15S4):
+)
+.end
+left 2, right 2
+Completion of sequence (E15S5):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E15S6):
+)
+.end
+left 2, right 2
+Completion of sequence (E15S7):
+(
+(
+)
+)
+)
+.end
+left 4, right 4
+Completion of sequence (E15S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E15S9):
+)
+.end
+left 2, right 2
+Epoch 17, loss: 175.93338432735143
+Completion of sequence (E16S0):
+)
+.end
+left 2, right 2
+Completion of sequence (E16S1):
+)
+.end
+left 2, right 2
+Completion of sequence (E16S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E16S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E16S4):
+)
+.end
+left 2, right 2
+Completion of sequence (E16S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E16S6):
+)
+.end
+left 2, right 2
+Completion of sequence (E16S7):
+)
+.end
+left 2, right 2
+Completion of sequence (E16S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E16S9):
+)
+.end
+left 2, right 2
+Epoch 18, loss: 175.95414306360706
+Completion of sequence (E17S0):
+(
+(
+(
+(
+)
+)
+(
+)
+)
+)
+(
+)
+)
+.end
+left 8, right 8
+Completion of sequence (E17S1):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E17S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E17S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E17S4):
+)
+.end
+left 2, right 2
+Completion of sequence (E17S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E17S6):
+)
+.end
+left 2, right 2
+Completion of sequence (E17S7):
+)
+.end
+left 2, right 2
+Completion of sequence (E17S8):
+)
+.end
+left 2, right 2
+Completion of sequence (E17S9):
+)
+.end
+left 2, right 2
+Epoch 19, loss: 175.940978804546
+Completion of sequence (E18S0):
+)
+.end
+left 2, right 2
+Completion of sequence (E18S1):
+(
+(
+(
+(
+)
+)
+)
+)
+(
+)
+)
+.end
+left 7, right 7
+Completion of sequence (E18S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E18S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E18S4):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E18S5):
+(
+(
+(
+)
+)
+)
+)
+.end
+left 5, right 5
+Completion of sequence (E18S6):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E18S7):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E18S8):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E18S9):
+)
+.end
+left 2, right 2
+Epoch 20, loss: 175.95400728910857
+Completion of sequence (E19S0):
+)
+.end
+left 2, right 2
+Completion of sequence (E19S1):
+)
+.end
+left 2, right 2
+Completion of sequence (E19S2):
+)
+.end
+left 2, right 2
+Completion of sequence (E19S3):
+)
+.end
+left 2, right 2
+Completion of sequence (E19S4):
+(
+)
+(
+)
+(
+)
+)
+.end
+left 5, right 5
+Completion of sequence (E19S5):
+)
+.end
+left 2, right 2
+Completion of sequence (E19S6):
+(
+(
+(
+(
+)
+)
+)
+(
+)
+)
+)
+.end
+left 7, right 7
+Completion of sequence (E19S7):
+)
+.end
+left 2, right 2
+Completion of sequence (E19S8):
+(
+)
+)
+.end
+left 3, right 3
+Completion of sequence (E19S9):
+)
+.end
+left 2, right 2
+Finished Training
+(
+)
+)
+.end
+left 3, right 3
+True

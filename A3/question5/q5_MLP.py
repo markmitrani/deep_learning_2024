@@ -1,4 +1,4 @@
-from deep_learning_2024.A3 import data_rnn
+import data_rnn
 import torch
 import torch.optim as optim
 from torch.utils.data import TensorDataset
@@ -43,8 +43,9 @@ def objective_MLP(trial):
     padded_train = padded_train.to(device)
     padded_val = padded_val.to(device)
 
-    train_dataset = TensorDataset(padded_train, torch.tensor(y_train))
-    validation_dataset = TensorDataset(padded_val, torch.tensor(y_val))
+    train_dataset = TensorDataset(padded_train, torch.tensor(y_train).to(device))
+    validation_dataset = TensorDataset(padded_val, torch.tensor(y_val).to(device))
+    
     trainloader = torch.utils.data.DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
     valloader = torch.utils.data.DataLoader(validation_dataset, batch_size=batch_size, shuffle=False)
 
