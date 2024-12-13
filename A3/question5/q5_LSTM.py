@@ -9,7 +9,6 @@ from utils import pad, validate
 class LSTMModel(nn.Module):
     def __init__(self, embedding_size=300, hidden_size=300):
         super().__init__()
-        timesteps = 2514  # from np.max(lengths)
         hidden = hidden_size
         embedding_size = embedding_size
         num_classes = 2
